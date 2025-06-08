@@ -1,0 +1,18 @@
+{
+  "name": "neptune",
+  "diameter": 49528,
+  "distance": 4515.0,
+  "mass": 102,
+  "moons": 16,
+  "has_rings": true,
+  "rotation_speed": 0.6211180124223602,
+  "orbit_speed": 0.10800000000000001,
+  "rotation_angle": 36.009258661210914,
+  "scale": 3.8,
+  "color": [
+    0.3,
+    0.5,
+    0.9
+  ],
+  "orbit_angle": 146.0862488439107
+}

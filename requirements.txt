@@ -1,0 +1,4 @@
+pygame>=2.0.0
+PyOpenGL>=3.1.0
+numpy>=1.19.0
+PyGLM>=2.5.0 
